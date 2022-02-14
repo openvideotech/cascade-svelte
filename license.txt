@@ -1,3 +1,10 @@
+
+Cascade Svelte,  a revenue-sharing agreement builder
+Copyright (C) 2022, Netribution Ltd, created by Rich Lott, Mark Boas & Nicol Wistreich
+Licensed under the GNU Affero Public License 3.0 (below).
+
+-------------------------------------------------------------------------------
+
                     GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 
