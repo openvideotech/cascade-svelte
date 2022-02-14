@@ -43,6 +43,6 @@ cssClassMap: {
       'icon-tick': 'crm-i fa-check',
       'icon-add': 'crm-i fa-plus-circle',
     }
-    ```
+```
 
 An [OpenVideo.tech](https://OpenVideo.tech) project.
