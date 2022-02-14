@@ -1,12 +1,12 @@
 # Cascade Svelte
 
-Drag and drop builder for Revenue Sharing Language agreements written Svelte JS. 
+Drag and drop builder for Revenue Sharing Language agreements written in Svelte JS. 
 
-by [Rich Lott](https://artfulrobot.uk), Mark Boas and Nicol Wistreich. Copyright Netribution Ltd 2022, licensed under AGPL.
+by [Rich Lott](https://artfulrobot.uk), [Mark Boas](https://maboa.it/) and [Nicol Wistreich](https://helloideas.com). Copyright Netribution Ltd 2022, licensed under AGPL.
 
 ## CSS Mapping
 
-- This was originally built for the CiviSplit CiviCRM extension, integrating with Bootstrap 3. To keep the standalone Cascade intact, and avoid a weighty Bootstrap dependency for this distribution, the non-CiviCRM specific JS is kept in `cascade-standalone.js`. 
+This was originally built for the CiviSplit CiviCRM extension, integrating with Bootstrap 3. To keep the standalone Cascade intact, and avoid a weighty Bootstrap dependency for this distribution, the non-CiviCRM specific JS is kept in `cascade-standalone.js`. 
 
 This includes css-framework mapping classnames, so if you want to integrate this with other CSS frameworks, you can just change those names. So, for instance, to integrate this with **Bootstrap**, you'd use (something like) these mappings instead and load bootstrap.css in the head:
 
